@@ -1,5 +1,5 @@
 - I am Anuradha Karule
-- IT Student 
+- IT Student(Second Year)
 - Currently upskilling java skills 
 - I’m looking to collaborate on open source ...
 - 📫 How to reach me ...
